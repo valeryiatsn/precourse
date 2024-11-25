@@ -255,6 +255,9 @@ li:hover {
         min-width: auto;
     }
 
+    .main-img-wrapper {
+        width: 250px;
+}
 
     .information {
         padding-left: 20px;
